@@ -3,8 +3,10 @@ import { drizzle } from 'drizzle-orm/neon-serverless';
 import ws from 'ws';
 import * as schema from './schema';
 
-// Enable WebSocket support for Node.js environments
-if (!neonConfig.webSocketConstructor) {
+// Enable WebSocket support for Neon serverless
+if (typeof WebSocket !== 'undefined' && !neonConfig.webSocketConstructor) {
+  neonConfig.webSocketConstructor = WebSocket;
+} else if (!neonConfig.webSocketConstructor) {
   neonConfig.webSocketConstructor = ws;
 }
 

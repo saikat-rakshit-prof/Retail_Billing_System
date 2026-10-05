@@ -31,6 +31,7 @@
     "recharts": "^2.15.0",
     "remark-gfm": "^4.0.1",
     "tailwind-merge": "^2.6.0",
+    "ws": "^8.18.0",
     "zustand": "^5.0.11"
   },
   "devDependencies": {
@@ -40,6 +41,7 @@
     "@types/pg": "^8.18.0",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/ws": "^8.5.14",
     "drizzle-kit": "^0.31.10",
     "eslint": "^9",
     "eslint-config-next": "16.1.6",
