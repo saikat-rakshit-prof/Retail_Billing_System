@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="180" viewBox="0 0 680 420">
+  <style>
+    .brand-name { font-family: Georgia, serif; font-size: 42px; font-weight: 700; fill: #1a2e1a; letter-spacing: 2px; }
+    .brand-sub { font-family: Arial, sans-serif; font-size: 15px; font-weight: 400; fill: #4a7c59; letter-spacing: 6px; }
+    .brand-tag { font-family: Arial, sans-serif; font-size: 11px; font-weight: 400; fill: #6b9e7a; letter-spacing: 3px; }
+  </style>
+
+  <circle cx="100" cy="210" r="72" fill="none" stroke="#16a34a" stroke-width="2.5"/>
+  <circle cx="100" cy="210" r="66" fill="#f0fdf4"/>
+  <circle cx="100" cy="210" r="58" fill="none" stroke="#86efac" stroke-width="0.8"/>
+  <path d="M88 158 L88 168 Q82 172 80 180 L80 248 Q80 256 88 256 L112 256 Q120 256 120 248 L120 180 Q118 172 112 168 L112 158 Z" fill="#16a34a"/>
+  <rect x="90" y="150" width="20" height="12" rx="3" fill="#15803d"/>
+  <rect x="92" y="146" width="16" height="6" rx="2" fill="#166534"/>
+  <path d="M88 185 Q84 200 84 220" fill="none" stroke="#4ade80" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <rect x="83" y="196" width="34" height="28" rx="2" fill="white" opacity="0.9"/>
+  <rect x="85" y="200" width="30" height="3" rx="1" fill="#16a34a"/>
+  <rect x="85" y="205" width="24" height="2" rx="1" fill="#86efac"/>
+  <rect x="85" y="209" width="27" height="2" rx="1" fill="#86efac"/>
+  <rect x="85" y="213" width="20" height="2" rx="1" fill="#86efac"/>
+  <rect x="85" y="218" width="30" height="3" rx="1" fill="#16a34a"/>
+  <path d="M122 185 Q130 172 134 185 Q138 196 130 202 Q122 196 122 185Z" fill="#22c55e" opacity="0.85"/>
+  <circle cx="95" cy="170" r="2.5" fill="#4ade80" opacity="0.7"/>
+  <circle cx="106" cy="165" r="1.8" fill="#4ade80" opacity="0.5"/>
+  <circle cx="115" cy="172" r="2" fill="#4ade80" opacity="0.6"/>
+  <text x="198" y="198" class="brand-name">SAIKAT</text>
+  <text x="198" y="242" class="brand-name">ENTERPRISE</text>
+  <line x1="198" y1="255" x2="570" y2="255" stroke="#16a34a" stroke-width="1.5"/>
+  <line x1="198" y1="259" x2="570" y2="259" stroke="#86efac" stroke-width="0.5"/>
+  <text x="198" y="278" class="brand-sub">BEVERAGES &amp; DISTRIBUTION</text>
+  <text x="198" y="302" class="brand-tag">QUALITY YOU CAN TASTE</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" 
+     viewBox="0 0 32 32" width="32" height="32">
+  
+  <!-- Green circle background -->
+  <circle cx="16" cy="16" r="16" fill="#16a34a"/>
+  
+  <!-- White bottle shape -->
+  <path d="M13 7 L13 10 Q11 11 10 13 L10 24 
+           Q10 26 12 26 L20 26 Q22 26 22 24 
+           L22 13 Q21 11 19 10 L19 7 Z" 
+        fill="white"/>
+  
+  <!-- Bottle neck cap -->
+  <rect x="13.5" y="5" width="5" height="3" 
+        rx="1" fill="#d1fae5"/>
+  
+  <!-- Bottle label lines -->
+  <rect x="12" y="15" width="8" height="1.5" 
+        rx="0.5" fill="#16a34a"/>
+  <rect x="12" y="18" width="6" height="1" 
+        rx="0.5" fill="#86efac"/>
+  <rect x="12" y="20.5" width="8" height="1.5" 
+        rx="0.5" fill="#16a34a"/>
+  
+  <!-- Small droplet -->
+  <path d="M21 11 Q23 8.5 25 11 Q25 14 23 14 
+           Q21 14 21 11Z" 
+        fill="#4ade80" opacity="0.9"/>
+
+</svg>
